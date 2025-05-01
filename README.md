@@ -77,9 +77,9 @@ export MAX_COMPILE_CORE_NUMBER=1
 
 ## 改进模块简介
 
-- **block_c2f faster kan.py**：实现了 C2f_Faster_KAN 结构，结合KAN和空间混合，提升特征提取效率。
-- **block_DCCAttention.py**：实现动态通道校准注意力（DCCAttention），自适应调整通道权重。
-- **block_LGAFB.py**：实现局部-全局注意力融合块（LGAFB），增强多尺度信息融合。
+- **block_c2f faster kan.py**
+- **block_DCCAttention.py**
+- **block_LGAFB.py**
 
 
 ---
